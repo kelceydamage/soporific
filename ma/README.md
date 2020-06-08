@@ -15,7 +15,7 @@ This procedure is designed to provide an orderly method of performing maintenanc
 * Changes to production happen only during maintenance windows.
 * Maintenance windows may happen on Thursday evenings after local core hours.
 * Maintenance on core infrastructure (not nests) may happen on the first and third weeks of the month.
-* Maintenance on nest local (and dependent) infrastructure may happen on the second and forth weeks.
+* Maintenance on nest local (and dependent) infrastructure may happen on the second and fourth weeks.
 
 ### Communications
 A maintenance window is assumed to happen every Thursday. If it is not needed, the infrastructure team should announce this in #zipline-announcements.
