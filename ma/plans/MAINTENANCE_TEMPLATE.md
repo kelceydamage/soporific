@@ -1,23 +1,20 @@
-### <NAME OF CHANGE>
+## Scope
+<Describe the zone of impact. What servers or services are affected.>
 
-<DESCRIBE CHANGE>
+### <Replace with name of change task.> My change task
+<Describe the change task.>
 
 #### Assumptions
-
-<DESCRIBE ANY ASSUMPTIONS>
+<Describe any assumptions being made with regards to this change.>
 
 #### Stakeholders
-
-<LIST STAKEHOLDERS>
+<List all relevant stakeholders.>
 
 #### Procedure
-
-<ITEMIZE PROCEEDURE THAT WILL BE PERFORMED>
+<Itemize the procedures or steps that will be performed.>
 
 #### Testing
-
-<DESCRIBE TESTING DONE>
+<Describe the testing that was performed to ensure the change is safe.>
 
 #### Rollback Notes
-
-<DESCRIBE UNDO PROCESS>
+<Describe how to revert or undo the change.>
