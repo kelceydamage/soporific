@@ -11,10 +11,10 @@ Team-engineering slack channel members.
 The proceedure to increase the amout of available swap is as follows:
 
 On all servers:
-1.) Create the new swapfile: `sudo dd if=/dev/zero of=/swapfile bs=1M count=8192`
-2.) Disable swap with: `swapoff -a`
-3.) Set the new swapfile as swap: `mkswap /swapfile`
-4.) re-enable swap: `swapon /swapfile`
+1. Create the new swapfile: `sudo dd if=/dev/zero of=/swapfile bs=1M count=8192`
+2. Disable swap with: `swapoff -a`
+3. Set the new swapfile as swap: `mkswap /swapfile`
+4. re-enable swap: `swapon /swapfile`
 
 #### Testing
 Testing was performed on `nest0-server-a` and `nest0-server-b`
