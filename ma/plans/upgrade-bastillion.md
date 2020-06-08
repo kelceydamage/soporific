@@ -1,3 +1,7 @@
+## Scope
+
+Bastillion aws instances named bastillion1.int.flyzipline.com bastillion2.int.flyzipline.com.
+
 ### Upgrade bastillion to release 3.10.00.
 
 This release is required to fix the bug reported here: https://flyzipline.atlassian.net/browse/INF-154.
